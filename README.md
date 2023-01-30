@@ -1,5 +1,4 @@
-# ms_rest-socket-performance
- microservices
+microservices
  
  что выбрать при разработке микросервисов
  ## Критерии производительности REST vs Socket
